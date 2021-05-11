@@ -4,7 +4,7 @@ import headings from "./headings";
 
 const transition = "0.2s ease-out";
 const systemFonts =
-  "Segoe UI";
+  "Palatino";
 
 export default {
   initialColorMode: `dark`,
