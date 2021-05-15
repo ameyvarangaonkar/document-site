@@ -4,7 +4,7 @@ import headings from "./headings";
 
 const transition = "0.2s ease-out";
 const systemFonts =
-  "-apple-system, BlinkMacSystemFont, San Francisco, Helvetica Neue, Helvetica, Ubuntu, Roboto, Noto, Segoe UI, Arial, sans-serif";
+  "-apple-system, BlinkMacSystemFont, San Francisco, Segoe UI";
 
 export default {
   initialColorMode: `dark`,
